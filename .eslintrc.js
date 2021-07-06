@@ -13,6 +13,7 @@ module.exports = {
     rules: {
         'no-restricted-syntax': 'off',
         'no-await-in-loop': 'off',
+        'operator-linebreak': 'off',
 
         // Предупреждение no-unused-vars вместо ошибки
         'no-unused-vars': 'warn',
