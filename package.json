@@ -1,14 +1,14 @@
 {
-  "name": "hep-template",
+  "name": "shri-perfomance-hw",
   "version": "1.0.0",
-  "description": "Template repository with Husky & ESLint & Prettier",
+  "description": "Homework in SHRI. Custom RUM service.",
   "main": "index.js",
   "scripts": {
     "prettify": "prettier src --write",
     "lint": "eslint src --fix",
     "prepare": "husky install"
   },
-  "repository": "https://github.com/vmik7/hep-template.git",
+  "repository": "https://github.com/vmik7/shri-perfomance-hw.git",
   "author": "vmik7 <vmik7@yandex.ru>",
   "license": "MIT",
   "devDependencies": {

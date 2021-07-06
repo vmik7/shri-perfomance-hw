@@ -1,2 +1,3 @@
-# hep-template
-Template repository with Husky &amp; ESLint &amp; Prettier
+# shri-perfomance-hw
+
+Homework in SHRI. Custom RUM service.
